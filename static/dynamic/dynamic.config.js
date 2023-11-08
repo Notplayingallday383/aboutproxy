@@ -7,7 +7,7 @@ self.__dynamic$config = {
   logLevel: 0, 
   bare: {
     version: 3, 
-    path: '/bare/',
+    path: 'https://anura.mercurywork.shop/bare/',
   },
   tab: {
     title: null,
